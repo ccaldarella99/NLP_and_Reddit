@@ -1,0 +1,1598 @@
+
+==================================================================================================
+2021-05-04, 09:11:21 [INFO]   BEGIN LOOP SCRAPER - v1.1.0.1
+--------------------------------------------------------------------------------------------------
+2021-05-04, 09:11:21 [INFO] (lOOP # 1 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:11:21 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:11:21 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:11:21 0    1619924752
+1    1620053212
+Name: before_value, dtype: int64
+2021-05-04, 09:11:32 [INFO] AMA STATUS (comment): 200
+
+==================================================================================================
+2021-05-04, 09:12:09 [INFO]   BEGIN LOOP SCRAPER - v1.1.0.1
+--------------------------------------------------------------------------------------------------
+2021-05-04, 09:12:09 [INFO] (lOOP # 1 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:12:09 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:12:09 [INFO]  *** FILE NOT FOUND: {filename} ***
+2021-05-04, 09:12:09 [INFO]       - SETTING "BEFORE" VALUES TO ZERO (0)
+2021-05-04, 09:12:20 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:12:34 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:12:34 [INFO] BEFORE VAL, AMA comment: 1620093380
+2021-05-04, 09:12:34 [INFO] BEFORE VAL, AskReddit comment: 1620094754
+2021-05-04, 09:12:34 [INFO] (lOOP # 2 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:12:34 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:12:34 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:12:34 0    1620093380
+1    1620094754
+Name: before_value, dtype: int64
+2021-05-04, 09:12:44 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:12:59 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:12:59 [INFO] BEFORE VAL, AMA comment: 1620091560
+2021-05-04, 09:12:59 [INFO] BEFORE VAL, AskReddit comment: 1620094718
+2021-05-04, 09:12:59 [INFO] (lOOP # 3 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:12:59 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:12:59 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:12:59 0    1620091560
+1    1620094718
+Name: before_value, dtype: int64
+2021-05-04, 09:13:10 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:13:26 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:13:26 [INFO] BEFORE VAL, AMA comment: 1620089923
+2021-05-04, 09:13:26 [INFO] BEFORE VAL, AskReddit comment: 1620094683
+2021-05-04, 09:13:26 [INFO] (lOOP # 4 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:13:26 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:13:26 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:13:26 0    1620089923
+1    1620094683
+Name: before_value, dtype: int64
+2021-05-04, 09:13:36 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:13:51 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:13:51 [INFO] BEFORE VAL, AMA comment: 1620088452
+2021-05-04, 09:13:51 [INFO] BEFORE VAL, AskReddit comment: 1620094649
+2021-05-04, 09:13:51 [INFO] (lOOP # 5 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:13:51 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:13:51 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:13:51 0    1620088452
+1    1620094649
+Name: before_value, dtype: int64
+2021-05-04, 09:14:02 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:14:17 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:14:17 [INFO] BEFORE VAL, AMA comment: 1620086499
+2021-05-04, 09:14:17 [INFO] BEFORE VAL, AskReddit comment: 1620094608
+2021-05-04, 09:14:17 [INFO] (lOOP # 6 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:14:17 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:14:17 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:14:17 0    1620086499
+1    1620094608
+Name: before_value, dtype: int64
+2021-05-04, 09:14:28 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:14:43 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:14:43 [INFO] BEFORE VAL, AMA comment: 1620084822
+2021-05-04, 09:14:43 [INFO] BEFORE VAL, AskReddit comment: 1620094572
+2021-05-04, 09:14:43 [INFO] (lOOP # 7 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:14:43 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:14:43 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:14:43 0    1620084822
+1    1620094572
+Name: before_value, dtype: int64
+2021-05-04, 09:14:54 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:15:09 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:15:09 [INFO] BEFORE VAL, AMA comment: 1620082823
+2021-05-04, 09:15:09 [INFO] BEFORE VAL, AskReddit comment: 1620094537
+2021-05-04, 09:15:09 [INFO] (lOOP # 8 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:15:09 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:15:09 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:15:09 0    1620082823
+1    1620094537
+Name: before_value, dtype: int64
+2021-05-04, 09:15:20 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:15:35 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:15:35 [INFO] BEFORE VAL, AMA comment: 1620081566
+2021-05-04, 09:15:35 [INFO] BEFORE VAL, AskReddit comment: 1620094501
+2021-05-04, 09:15:35 [INFO] (lOOP # 9 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:15:35 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:15:35 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:15:35 0    1620081566
+1    1620094501
+Name: before_value, dtype: int64
+2021-05-04, 09:15:45 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:16:00 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:16:00 [INFO] BEFORE VAL, AMA comment: 1620080091
+2021-05-04, 09:16:00 [INFO] BEFORE VAL, AskReddit comment: 1620094468
+2021-05-04, 09:16:00 [INFO] (lOOP # 10 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:16:00 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:16:00 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:16:00 0    1620080091
+1    1620094468
+Name: before_value, dtype: int64
+2021-05-04, 09:16:11 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:16:26 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:16:26 [INFO] BEFORE VAL, AMA comment: 1620078416
+2021-05-04, 09:16:26 [INFO] BEFORE VAL, AskReddit comment: 1620094434
+2021-05-04, 09:16:26 [INFO] (lOOP # 11 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:16:26 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:16:26 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:16:26 0    1620078416
+1    1620094434
+Name: before_value, dtype: int64
+2021-05-04, 09:16:36 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:16:51 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:16:51 [INFO] BEFORE VAL, AMA comment: 1620076936
+2021-05-04, 09:16:51 [INFO] BEFORE VAL, AskReddit comment: 1620094402
+2021-05-04, 09:16:51 [INFO] (lOOP # 12 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:16:51 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:16:51 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:16:51 0    1620076936
+1    1620094402
+Name: before_value, dtype: int64
+2021-05-04, 09:17:02 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:17:17 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:17:17 [INFO] BEFORE VAL, AMA comment: 1620075410
+2021-05-04, 09:17:17 [INFO] BEFORE VAL, AskReddit comment: 1620094364
+2021-05-04, 09:17:17 [INFO] (lOOP # 13 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:17:17 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:17:17 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:17:17 0    1620075410
+1    1620094364
+Name: before_value, dtype: int64
+2021-05-04, 09:17:27 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:17:42 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:17:42 [INFO] BEFORE VAL, AMA comment: 1620073935
+2021-05-04, 09:17:42 [INFO] BEFORE VAL, AskReddit comment: 1620094325
+2021-05-04, 09:17:42 [INFO] (lOOP # 14 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:17:42 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:17:42 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:17:42 0    1620073935
+1    1620094325
+Name: before_value, dtype: int64
+2021-05-04, 09:17:53 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:18:09 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:18:09 [INFO] BEFORE VAL, AMA comment: 1620073143
+2021-05-04, 09:18:09 [INFO] BEFORE VAL, AskReddit comment: 1620094292
+2021-05-04, 09:18:09 [INFO] (lOOP # 15 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:18:09 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:18:09 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:18:09 0    1620073143
+1    1620094292
+Name: before_value, dtype: int64
+2021-05-04, 09:18:20 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:18:35 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:18:35 [INFO] BEFORE VAL, AMA comment: 1620071850
+2021-05-04, 09:18:35 [INFO] BEFORE VAL, AskReddit comment: 1620094251
+2021-05-04, 09:18:35 [INFO] (lOOP # 16 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:18:35 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:18:35 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:18:35 0    1620071850
+1    1620094251
+Name: before_value, dtype: int64
+2021-05-04, 09:18:45 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:19:00 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:19:00 [INFO] BEFORE VAL, AMA comment: 1620070424
+2021-05-04, 09:19:00 [INFO] BEFORE VAL, AskReddit comment: 1620094215
+2021-05-04, 09:19:00 [INFO] (lOOP # 17 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:19:00 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:19:00 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:19:00 0    1620070424
+1    1620094215
+Name: before_value, dtype: int64
+2021-05-04, 09:19:11 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:19:26 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:19:26 [INFO] BEFORE VAL, AMA comment: 1620068928
+2021-05-04, 09:19:26 [INFO] BEFORE VAL, AskReddit comment: 1620094178
+2021-05-04, 09:19:26 [INFO] (lOOP # 18 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:19:26 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:19:26 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:19:26 0    1620068928
+1    1620094178
+Name: before_value, dtype: int64
+2021-05-04, 09:19:37 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:19:52 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:19:52 [INFO] BEFORE VAL, AMA comment: 1620066848
+2021-05-04, 09:19:52 [INFO] BEFORE VAL, AskReddit comment: 1620094141
+2021-05-04, 09:19:52 [INFO] (lOOP # 19 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:19:52 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:19:52 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:19:52 0    1620066848
+1    1620094141
+Name: before_value, dtype: int64
+2021-05-04, 09:20:03 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:20:18 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:20:18 [INFO] BEFORE VAL, AMA comment: 1620064259
+2021-05-04, 09:20:18 [INFO] BEFORE VAL, AskReddit comment: 1620094107
+2021-05-04, 09:20:18 [INFO] (lOOP # 20 of 20)
+
+--------------------------------------------------------------------
+2021-05-04, 09:20:18 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:20:18 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:20:18 0    1620064259
+1    1620094107
+Name: before_value, dtype: int64
+2021-05-04, 09:20:28 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:20:43 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:20:43 [INFO] BEFORE VAL, AMA comment: 1620062079
+2021-05-04, 09:20:43 [INFO] BEFORE VAL, AskReddit comment: 1620094071
+2021-05-04, 09:20:43 [INFO]  *** Writing to CSV file(s) ***
+2021-05-04, 09:20:43 [INFO]   - Writing to file: {fn}
+2021-05-04, 09:20:43 [INFO]   - Writing to file: {fn}
+
+--------------------------------------------------------------------------------------------------
+2021-05-04, 09:20:43 [INFO]   FINISH LOOP SCRAPER
+==================================================================================================
+
+
+
+==================================================================================================
+2021-05-04, 09:20:43 [INFO]   BEGIN LOOP SCRAPER - v1.1.0.1
+--------------------------------------------------------------------------------------------------
+2021-05-04, 09:20:43 [INFO] (lOOP # 1 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:20:43 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:20:43 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:20:43 0    1620062079
+1    1620094071
+Name: before_value, dtype: int64
+2021-05-04, 09:20:54 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:21:09 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:21:09 [INFO] BEFORE VAL, AMA comment: 1620059282
+2021-05-04, 09:21:09 [INFO] BEFORE VAL, AskReddit comment: 1620094036
+2021-05-04, 09:21:09 [INFO] (lOOP # 2 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:21:09 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:21:09 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:21:09 0    1620059282
+1    1620094036
+Name: before_value, dtype: int64
+2021-05-04, 09:21:20 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:21:35 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:21:35 [INFO] BEFORE VAL, AMA comment: 1620057069
+2021-05-04, 09:21:35 [INFO] BEFORE VAL, AskReddit comment: 1620093996
+2021-05-04, 09:21:35 [INFO] (lOOP # 3 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:21:35 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:21:35 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:21:35 0    1620057069
+1    1620093996
+Name: before_value, dtype: int64
+2021-05-04, 09:21:46 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:22:01 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:22:01 [INFO] BEFORE VAL, AMA comment: 1620055110
+2021-05-04, 09:22:01 [INFO] BEFORE VAL, AskReddit comment: 1620093964
+2021-05-04, 09:22:01 [INFO] (lOOP # 4 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:22:01 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:22:01 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:22:01 0    1620055110
+1    1620093964
+Name: before_value, dtype: int64
+2021-05-04, 09:22:11 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:22:26 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:22:26 [INFO] BEFORE VAL, AMA comment: 1620053731
+2021-05-04, 09:22:26 [INFO] BEFORE VAL, AskReddit comment: 1620093934
+2021-05-04, 09:22:26 [INFO] (lOOP # 5 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:22:26 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:22:26 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:22:26 0    1620053731
+1    1620093934
+Name: before_value, dtype: int64
+2021-05-04, 09:22:38 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:22:54 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:22:54 [INFO] BEFORE VAL, AMA comment: 1620051930
+2021-05-04, 09:22:54 [INFO] BEFORE VAL, AskReddit comment: 1620093905
+2021-05-04, 09:22:54 [INFO] (lOOP # 6 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:22:54 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:22:54 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:22:54 0    1620051930
+1    1620093905
+Name: before_value, dtype: int64
+2021-05-04, 09:23:04 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:23:22 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:23:22 [INFO] BEFORE VAL, AMA comment: 1620050324
+2021-05-04, 09:23:22 [INFO] BEFORE VAL, AskReddit comment: 1620093866
+2021-05-04, 09:23:22 [INFO] (lOOP # 7 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:23:22 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:23:22 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:23:22 0    1620050324
+1    1620093866
+Name: before_value, dtype: int64
+2021-05-04, 09:23:33 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:23:48 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:23:48 [INFO] BEFORE VAL, AMA comment: 1620048698
+2021-05-04, 09:23:48 [INFO] BEFORE VAL, AskReddit comment: 1620093832
+2021-05-04, 09:23:48 [INFO] (lOOP # 8 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:23:48 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:23:48 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:23:48 0    1620048698
+1    1620093832
+Name: before_value, dtype: int64
+2021-05-04, 09:23:59 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:24:14 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:24:14 [INFO] BEFORE VAL, AMA comment: 1620046666
+2021-05-04, 09:24:14 [INFO] BEFORE VAL, AskReddit comment: 1620093800
+2021-05-04, 09:24:14 [INFO] (lOOP # 9 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:24:14 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:24:14 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:24:14 0    1620046666
+1    1620093800
+Name: before_value, dtype: int64
+2021-05-04, 09:24:24 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:24:40 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:24:40 [INFO] BEFORE VAL, AMA comment: 1620043934
+2021-05-04, 09:24:40 [INFO] BEFORE VAL, AskReddit comment: 1620093762
+2021-05-04, 09:24:40 [INFO] (lOOP # 10 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:24:40 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:24:40 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:24:40 0    1620043934
+1    1620093762
+Name: before_value, dtype: int64
+2021-05-04, 09:24:50 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:25:05 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:25:05 [INFO] BEFORE VAL, AMA comment: 1620040129
+2021-05-04, 09:25:05 [INFO] BEFORE VAL, AskReddit comment: 1620093730
+2021-05-04, 09:25:05 [INFO] (lOOP # 11 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:25:05 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:25:05 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:25:05 0    1620040129
+1    1620093730
+Name: before_value, dtype: int64
+2021-05-04, 09:25:16 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:25:36 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:25:36 [INFO] BEFORE VAL, AMA comment: 1620037143
+2021-05-04, 09:25:36 [INFO] BEFORE VAL, AskReddit comment: 1620093695
+2021-05-04, 09:25:36 [INFO] (lOOP # 12 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:25:36 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:25:36 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:25:36 0    1620037143
+1    1620093695
+Name: before_value, dtype: int64
+2021-05-04, 09:25:53 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:26:09 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:26:09 [INFO] BEFORE VAL, AMA comment: 1620034277
+2021-05-04, 09:26:09 [INFO] BEFORE VAL, AskReddit comment: 1620093661
+2021-05-04, 09:26:09 [INFO] (lOOP # 13 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:26:09 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:26:09 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:26:09 0    1620034277
+1    1620093661
+Name: before_value, dtype: int64
+2021-05-04, 09:26:19 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:26:35 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:26:35 [INFO] BEFORE VAL, AMA comment: 1620031635
+2021-05-04, 09:26:35 [INFO] BEFORE VAL, AskReddit comment: 1620093624
+2021-05-04, 09:26:35 [INFO] (lOOP # 14 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:26:35 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:26:35 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:26:35 0    1620031635
+1    1620093624
+Name: before_value, dtype: int64
+2021-05-04, 09:26:46 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:27:02 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:27:02 [INFO] BEFORE VAL, AMA comment: 1620029167
+2021-05-04, 09:27:02 [INFO] BEFORE VAL, AskReddit comment: 1620093586
+2021-05-04, 09:27:02 [INFO] (lOOP # 15 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:27:02 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:27:02 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:27:02 0    1620029167
+1    1620093586
+Name: before_value, dtype: int64
+2021-05-04, 09:27:13 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:27:28 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:27:28 [INFO] BEFORE VAL, AMA comment: 1620027338
+2021-05-04, 09:27:28 [INFO] BEFORE VAL, AskReddit comment: 1620093547
+2021-05-04, 09:27:28 [INFO] (lOOP # 16 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:27:28 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:27:28 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:27:28 0    1620027338
+1    1620093547
+Name: before_value, dtype: int64
+2021-05-04, 09:27:39 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:27:54 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:27:54 [INFO] BEFORE VAL, AMA comment: 1620025779
+2021-05-04, 09:27:54 [INFO] BEFORE VAL, AskReddit comment: 1620093509
+2021-05-04, 09:27:54 [INFO] (lOOP # 17 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:27:54 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:27:54 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:27:54 0    1620025779
+1    1620093509
+Name: before_value, dtype: int64
+2021-05-04, 09:28:05 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:28:21 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:28:21 [INFO] BEFORE VAL, AMA comment: 1620024610
+2021-05-04, 09:28:21 [INFO] BEFORE VAL, AskReddit comment: 1620093474
+2021-05-04, 09:28:21 [INFO] (lOOP # 18 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:28:21 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:28:21 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:28:21 0    1620024610
+1    1620093474
+Name: before_value, dtype: int64
+2021-05-04, 09:28:31 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:28:47 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:28:47 [INFO] BEFORE VAL, AMA comment: 1620023147
+2021-05-04, 09:28:47 [INFO] BEFORE VAL, AskReddit comment: 1620093444
+2021-05-04, 09:28:47 [INFO] (lOOP # 19 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:28:47 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:28:47 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:28:47 0    1620023147
+1    1620093444
+Name: before_value, dtype: int64
+2021-05-04, 09:28:58 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:29:14 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:29:14 [INFO] BEFORE VAL, AMA comment: 1620021950
+2021-05-04, 09:29:14 [INFO] BEFORE VAL, AskReddit comment: 1620093405
+2021-05-04, 09:29:14 [INFO] (lOOP # 20 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:29:14 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:29:14 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:29:14 0    1620021950
+1    1620093405
+Name: before_value, dtype: int64
+2021-05-04, 09:29:25 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:29:40 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:29:40 [INFO] BEFORE VAL, AMA comment: 1620019561
+2021-05-04, 09:29:40 [INFO] BEFORE VAL, AskReddit comment: 1620093379
+2021-05-04, 09:29:40 [INFO] (lOOP # 21 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:29:40 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:29:40 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:29:40 0    1620019561
+1    1620093379
+Name: before_value, dtype: int64
+2021-05-04, 09:29:50 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:30:06 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:30:06 [INFO] BEFORE VAL, AMA comment: 1620017965
+2021-05-04, 09:30:06 [INFO] BEFORE VAL, AskReddit comment: 1620093348
+2021-05-04, 09:30:06 [INFO] (lOOP # 22 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:30:06 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:30:06 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:30:06 0    1620017965
+1    1620093348
+Name: before_value, dtype: int64
+2021-05-04, 09:30:17 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:30:32 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:30:32 [INFO] BEFORE VAL, AMA comment: 1620016598
+2021-05-04, 09:30:32 [INFO] BEFORE VAL, AskReddit comment: 1620093306
+2021-05-04, 09:30:32 [INFO] (lOOP # 23 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:30:32 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:30:32 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:30:32 0    1620016598
+1    1620093306
+Name: before_value, dtype: int64
+2021-05-04, 09:30:43 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:30:58 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:30:58 [INFO] BEFORE VAL, AMA comment: 1620014652
+2021-05-04, 09:30:58 [INFO] BEFORE VAL, AskReddit comment: 1620093273
+2021-05-04, 09:30:58 [INFO] (lOOP # 24 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:30:58 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:30:58 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:30:58 0    1620014652
+1    1620093273
+Name: before_value, dtype: int64
+2021-05-04, 09:31:09 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:31:48 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:31:48 [INFO] BEFORE VAL, AMA comment: 1620011957
+2021-05-04, 09:31:48 [INFO] BEFORE VAL, AskReddit comment: 1620093230
+2021-05-04, 09:31:48 [INFO] (lOOP # 25 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:31:48 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:31:48 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:31:48 0    1620011957
+1    1620093230
+Name: before_value, dtype: int64
+2021-05-04, 09:31:59 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:32:14 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:32:14 [INFO] BEFORE VAL, AMA comment: 1620009915
+2021-05-04, 09:32:14 [INFO] BEFORE VAL, AskReddit comment: 1620093196
+2021-05-04, 09:32:14 [INFO] (lOOP # 26 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:32:14 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:32:14 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:32:14 0    1620009915
+1    1620093196
+Name: before_value, dtype: int64
+2021-05-04, 09:32:25 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:32:40 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:32:40 [INFO] BEFORE VAL, AMA comment: 1620008083
+2021-05-04, 09:32:40 [INFO] BEFORE VAL, AskReddit comment: 1620093162
+2021-05-04, 09:32:40 [INFO] (lOOP # 27 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:32:40 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:32:40 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:32:40 0    1620008083
+1    1620093162
+Name: before_value, dtype: int64
+2021-05-04, 09:32:51 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:33:07 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:33:07 [INFO] BEFORE VAL, AMA comment: 1620005785
+2021-05-04, 09:33:07 [INFO] BEFORE VAL, AskReddit comment: 1620093131
+2021-05-04, 09:33:07 [INFO] (lOOP # 28 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:33:07 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:33:07 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:33:07 0    1620005785
+1    1620093131
+Name: before_value, dtype: int64
+2021-05-04, 09:33:17 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:33:33 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:33:33 [INFO] BEFORE VAL, AMA comment: 1620003761
+2021-05-04, 09:33:33 [INFO] BEFORE VAL, AskReddit comment: 1620093099
+2021-05-04, 09:33:33 [INFO] (lOOP # 29 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:33:33 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:33:33 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:33:33 0    1620003761
+1    1620093099
+Name: before_value, dtype: int64
+2021-05-04, 09:33:44 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:33:59 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:33:59 [INFO] BEFORE VAL, AMA comment: 1620001488
+2021-05-04, 09:33:59 [INFO] BEFORE VAL, AskReddit comment: 1620093065
+2021-05-04, 09:33:59 [INFO] (lOOP # 30 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:33:59 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:33:59 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:33:59 0    1620001488
+1    1620093065
+Name: before_value, dtype: int64
+2021-05-04, 09:34:10 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:34:25 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:34:25 [INFO] BEFORE VAL, AMA comment: 1619998958
+2021-05-04, 09:34:25 [INFO] BEFORE VAL, AskReddit comment: 1620093029
+2021-05-04, 09:34:25 [INFO] (lOOP # 31 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:34:25 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:34:25 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:34:25 0    1619998958
+1    1620093029
+Name: before_value, dtype: int64
+2021-05-04, 09:34:36 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:34:52 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:34:52 [INFO] BEFORE VAL, AMA comment: 1619997055
+2021-05-04, 09:34:52 [INFO] BEFORE VAL, AskReddit comment: 1620092993
+2021-05-04, 09:34:52 [INFO] (lOOP # 32 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:34:52 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:34:52 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:34:52 0    1619997055
+1    1620092993
+Name: before_value, dtype: int64
+2021-05-04, 09:35:03 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:35:19 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:35:19 [INFO] BEFORE VAL, AMA comment: 1619995917
+2021-05-04, 09:35:19 [INFO] BEFORE VAL, AskReddit comment: 1620092957
+2021-05-04, 09:35:19 [INFO] (lOOP # 33 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:35:19 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:35:19 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:35:19 0    1619995917
+1    1620092957
+Name: before_value, dtype: int64
+2021-05-04, 09:35:29 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:35:45 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:35:45 [INFO] BEFORE VAL, AMA comment: 1619994251
+2021-05-04, 09:35:45 [INFO] BEFORE VAL, AskReddit comment: 1620092925
+2021-05-04, 09:35:45 [INFO] (lOOP # 34 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:35:45 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:35:45 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:35:45 0    1619994251
+1    1620092925
+Name: before_value, dtype: int64
+2021-05-04, 09:35:56 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:36:12 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:36:12 [INFO] BEFORE VAL, AMA comment: 1619991402
+2021-05-04, 09:36:12 [INFO] BEFORE VAL, AskReddit comment: 1620092892
+2021-05-04, 09:36:12 [INFO] (lOOP # 35 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:36:12 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:36:12 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:36:12 0    1619991402
+1    1620092892
+Name: before_value, dtype: int64
+2021-05-04, 09:36:22 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:36:38 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:36:38 [INFO] BEFORE VAL, AMA comment: 1619989235
+2021-05-04, 09:36:38 [INFO] BEFORE VAL, AskReddit comment: 1620092862
+2021-05-04, 09:36:38 [INFO] (lOOP # 36 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:36:38 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:36:38 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:36:38 0    1619989235
+1    1620092862
+Name: before_value, dtype: int64
+2021-05-04, 09:36:49 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:37:04 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:37:04 [INFO] BEFORE VAL, AMA comment: 1619987007
+2021-05-04, 09:37:04 [INFO] BEFORE VAL, AskReddit comment: 1620092830
+2021-05-04, 09:37:04 [INFO] (lOOP # 37 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:37:04 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:37:04 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:37:04 0    1619987007
+1    1620092830
+Name: before_value, dtype: int64
+2021-05-04, 09:37:15 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:37:30 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:37:30 [INFO] BEFORE VAL, AMA comment: 1619984620
+2021-05-04, 09:37:30 [INFO] BEFORE VAL, AskReddit comment: 1620092797
+2021-05-04, 09:37:30 [INFO] (lOOP # 38 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:37:30 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:37:30 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:37:30 0    1619984620
+1    1620092797
+Name: before_value, dtype: int64
+2021-05-04, 09:37:41 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:37:56 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:37:56 [INFO] BEFORE VAL, AMA comment: 1619981799
+2021-05-04, 09:37:56 [INFO] BEFORE VAL, AskReddit comment: 1620092758
+2021-05-04, 09:37:56 [INFO] (lOOP # 39 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:37:56 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:37:56 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:37:56 0    1619981799
+1    1620092758
+Name: before_value, dtype: int64
+2021-05-04, 09:38:07 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:38:23 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:38:23 [INFO] BEFORE VAL, AMA comment: 1619979785
+2021-05-04, 09:38:23 [INFO] BEFORE VAL, AskReddit comment: 1620092714
+2021-05-04, 09:38:23 [INFO] (lOOP # 40 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:38:23 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:38:23 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:38:23 0    1619979785
+1    1620092714
+Name: before_value, dtype: int64
+2021-05-04, 09:38:34 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:38:54 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:38:54 [INFO] BEFORE VAL, AMA comment: 1619978030
+2021-05-04, 09:38:54 [INFO] BEFORE VAL, AskReddit comment: 1620092683
+2021-05-04, 09:38:54 [INFO] (lOOP # 41 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:38:54 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:38:54 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:38:54 0    1619978030
+1    1620092683
+Name: before_value, dtype: int64
+2021-05-04, 09:39:05 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:39:21 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:39:21 [INFO] BEFORE VAL, AMA comment: 1619975968
+2021-05-04, 09:39:21 [INFO] BEFORE VAL, AskReddit comment: 1620092652
+2021-05-04, 09:39:21 [INFO] (lOOP # 42 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:39:21 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:39:21 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:39:21 0    1619975968
+1    1620092652
+Name: before_value, dtype: int64
+2021-05-04, 09:39:32 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:39:49 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:39:49 [INFO] BEFORE VAL, AMA comment: 1619972296
+2021-05-04, 09:39:49 [INFO] BEFORE VAL, AskReddit comment: 1620092619
+2021-05-04, 09:39:49 [INFO] (lOOP # 43 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:39:49 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:39:49 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:39:49 0    1619972296
+1    1620092619
+Name: before_value, dtype: int64
+2021-05-04, 09:40:00 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:40:15 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:40:15 [INFO] BEFORE VAL, AMA comment: 1619969683
+2021-05-04, 09:40:16 [INFO] BEFORE VAL, AskReddit comment: 1620092585
+2021-05-04, 09:40:16 [INFO] (lOOP # 44 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:40:16 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:40:16 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:40:16 0    1619969683
+1    1620092585
+Name: before_value, dtype: int64
+2021-05-04, 09:40:26 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:40:42 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:40:42 [INFO] BEFORE VAL, AMA comment: 1619967518
+2021-05-04, 09:40:42 [INFO] BEFORE VAL, AskReddit comment: 1620092550
+2021-05-04, 09:40:42 [INFO] (lOOP # 45 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:40:42 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:40:42 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:40:42 0    1619967518
+1    1620092550
+Name: before_value, dtype: int64
+2021-05-04, 09:40:52 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:41:08 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:41:08 [INFO] BEFORE VAL, AMA comment: 1619964659
+2021-05-04, 09:41:08 [INFO] BEFORE VAL, AskReddit comment: 1620092520
+2021-05-04, 09:41:08 [INFO] (lOOP # 46 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:41:08 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:41:08 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:41:08 0    1619964659
+1    1620092520
+Name: before_value, dtype: int64
+2021-05-04, 09:41:19 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:41:45 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:41:45 [INFO] BEFORE VAL, AMA comment: 1619961012
+2021-05-04, 09:41:45 [INFO] BEFORE VAL, AskReddit comment: 1620092486
+2021-05-04, 09:41:45 [INFO] (lOOP # 47 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:41:45 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:41:45 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:41:45 0    1619961012
+1    1620092486
+Name: before_value, dtype: int64
+2021-05-04, 09:41:56 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:42:12 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:42:12 [INFO] BEFORE VAL, AMA comment: 1619955566
+2021-05-04, 09:42:12 [INFO] BEFORE VAL, AskReddit comment: 1620092458
+2021-05-04, 09:42:12 [INFO] (lOOP # 48 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:42:12 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:42:12 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:42:12 0    1619955566
+1    1620092458
+Name: before_value, dtype: int64
+2021-05-04, 09:42:22 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:42:37 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:42:37 [INFO] BEFORE VAL, AMA comment: 1619950781
+2021-05-04, 09:42:37 [INFO] BEFORE VAL, AskReddit comment: 1620092429
+2021-05-04, 09:42:37 [INFO] (lOOP # 49 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:42:37 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:42:37 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:42:37 0    1619950781
+1    1620092429
+Name: before_value, dtype: int64
+2021-05-04, 09:42:48 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:43:04 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:43:04 [INFO] BEFORE VAL, AMA comment: 1619947826
+2021-05-04, 09:43:04 [INFO] BEFORE VAL, AskReddit comment: 1620092402
+2021-05-04, 09:43:04 [INFO] (lOOP # 50 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:43:04 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:43:04 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:43:04 0    1619947826
+1    1620092402
+Name: before_value, dtype: int64
+2021-05-04, 09:43:15 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:43:30 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:43:30 [INFO] BEFORE VAL, AMA comment: 1619943747
+2021-05-04, 09:43:30 [INFO] BEFORE VAL, AskReddit comment: 1620092366
+2021-05-04, 09:43:30 [INFO] (lOOP # 51 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:43:30 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:43:30 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:43:30 0    1619943747
+1    1620092366
+Name: before_value, dtype: int64
+2021-05-04, 09:43:41 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:43:56 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:43:56 [INFO] BEFORE VAL, AMA comment: 1619941277
+2021-05-04, 09:43:56 [INFO] BEFORE VAL, AskReddit comment: 1620092333
+2021-05-04, 09:43:56 [INFO] (lOOP # 52 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:43:56 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:43:56 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:43:56 0    1619941277
+1    1620092333
+Name: before_value, dtype: int64
+2021-05-04, 09:44:07 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:44:28 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:44:28 [INFO] BEFORE VAL, AMA comment: 1619937605
+2021-05-04, 09:44:28 [INFO] BEFORE VAL, AskReddit comment: 1620092311
+2021-05-04, 09:44:28 [INFO] (lOOP # 53 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:44:28 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:44:28 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:44:28 0    1619937605
+1    1620092311
+Name: before_value, dtype: int64
+2021-05-04, 09:44:38 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:44:54 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:44:54 [INFO] BEFORE VAL, AMA comment: 1619933777
+2021-05-04, 09:44:54 [INFO] BEFORE VAL, AskReddit comment: 1620092281
+2021-05-04, 09:44:54 [INFO] (lOOP # 54 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:44:54 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:44:54 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:44:54 0    1619933777
+1    1620092281
+Name: before_value, dtype: int64
+2021-05-04, 09:45:05 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:45:21 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:45:21 [INFO] BEFORE VAL, AMA comment: 1619929637
+2021-05-04, 09:45:21 [INFO] BEFORE VAL, AskReddit comment: 1620092247
+2021-05-04, 09:45:21 [INFO] (lOOP # 55 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:45:21 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:45:21 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:45:21 0    1619929637
+1    1620092247
+Name: before_value, dtype: int64
+2021-05-04, 09:45:32 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:45:47 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:45:47 [INFO] BEFORE VAL, AMA comment: 1619926136
+2021-05-04, 09:45:47 [INFO] BEFORE VAL, AskReddit comment: 1620092217
+2021-05-04, 09:45:47 [INFO] (lOOP # 56 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:45:47 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:45:47 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:45:47 0    1619926136
+1    1620092217
+Name: before_value, dtype: int64
+2021-05-04, 09:45:57 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:46:13 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:46:13 [INFO] BEFORE VAL, AMA comment: 1619923596
+2021-05-04, 09:46:13 [INFO] BEFORE VAL, AskReddit comment: 1620092186
+2021-05-04, 09:46:13 [INFO] (lOOP # 57 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:46:13 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:46:13 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:46:13 0    1619923596
+1    1620092186
+Name: before_value, dtype: int64
+2021-05-04, 09:46:28 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:46:43 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:46:43 [INFO] BEFORE VAL, AMA comment: 1619920914
+2021-05-04, 09:46:43 [INFO] BEFORE VAL, AskReddit comment: 1620092156
+2021-05-04, 09:46:43 [INFO] (lOOP # 58 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:46:43 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:46:43 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:46:43 0    1619920914
+1    1620092156
+Name: before_value, dtype: int64
+2021-05-04, 09:46:54 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:47:09 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:47:09 [INFO] BEFORE VAL, AMA comment: 1619918593
+2021-05-04, 09:47:09 [INFO] BEFORE VAL, AskReddit comment: 1620092124
+2021-05-04, 09:47:09 [INFO] (lOOP # 59 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:47:09 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:47:09 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:47:09 0    1619918593
+1    1620092124
+Name: before_value, dtype: int64
+2021-05-04, 09:47:20 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:47:35 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:47:35 [INFO] BEFORE VAL, AMA comment: 1619917043
+2021-05-04, 09:47:35 [INFO] BEFORE VAL, AskReddit comment: 1620092095
+2021-05-04, 09:47:35 [INFO] (lOOP # 60 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:47:35 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:47:35 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:47:35 0    1619917043
+1    1620092095
+Name: before_value, dtype: int64
+2021-05-04, 09:47:46 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:48:01 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:48:01 [INFO] BEFORE VAL, AMA comment: 1619915565
+2021-05-04, 09:48:01 [INFO] BEFORE VAL, AskReddit comment: 1620092066
+2021-05-04, 09:48:01 [INFO] (lOOP # 61 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:48:01 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:48:01 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:48:01 0    1619915565
+1    1620092066
+Name: before_value, dtype: int64
+2021-05-04, 09:48:12 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:48:28 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:48:28 [INFO] BEFORE VAL, AMA comment: 1619914070
+2021-05-04, 09:48:28 [INFO] BEFORE VAL, AskReddit comment: 1620092037
+2021-05-04, 09:48:28 [INFO] (lOOP # 62 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:48:28 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:48:28 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:48:28 0    1619914070
+1    1620092037
+Name: before_value, dtype: int64
+2021-05-04, 09:48:39 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:48:54 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:48:54 [INFO] BEFORE VAL, AMA comment: 1619912809
+2021-05-04, 09:48:54 [INFO] BEFORE VAL, AskReddit comment: 1620092008
+2021-05-04, 09:48:54 [INFO] (lOOP # 63 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:48:54 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:48:54 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:48:54 0    1619912809
+1    1620092008
+Name: before_value, dtype: int64
+2021-05-04, 09:49:05 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:49:21 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:49:21 [INFO] BEFORE VAL, AMA comment: 1619911428
+2021-05-04, 09:49:21 [INFO] BEFORE VAL, AskReddit comment: 1620091981
+2021-05-04, 09:49:21 [INFO] (lOOP # 64 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:49:21 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:49:21 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:49:21 0    1619911428
+1    1620091981
+Name: before_value, dtype: int64
+2021-05-04, 09:49:43 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:49:58 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:49:58 [INFO] BEFORE VAL, AMA comment: 1619909414
+2021-05-04, 09:49:58 [INFO] BEFORE VAL, AskReddit comment: 1620091952
+2021-05-04, 09:49:58 [INFO] (lOOP # 65 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:49:58 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:49:58 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:49:58 0    1619909414
+1    1620091952
+Name: before_value, dtype: int64
+2021-05-04, 09:50:09 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:50:26 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:50:26 [INFO] BEFORE VAL, AMA comment: 1619907325
+2021-05-04, 09:50:26 [INFO] BEFORE VAL, AskReddit comment: 1620091923
+2021-05-04, 09:50:26 [INFO] (lOOP # 66 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:50:26 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:50:26 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:50:26 0    1619907325
+1    1620091923
+Name: before_value, dtype: int64
+2021-05-04, 09:50:42 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:51:04 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:51:04 [INFO] BEFORE VAL, AMA comment: 1619905418
+2021-05-04, 09:51:04 [INFO] BEFORE VAL, AskReddit comment: 1620091892
+2021-05-04, 09:51:04 [INFO] (lOOP # 67 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:51:04 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:51:04 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:51:04 0    1619905418
+1    1620091892
+Name: before_value, dtype: int64
+2021-05-04, 09:51:15 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:51:30 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:51:30 [INFO] BEFORE VAL, AMA comment: 1619903764
+2021-05-04, 09:51:30 [INFO] BEFORE VAL, AskReddit comment: 1620091863
+2021-05-04, 09:51:30 [INFO] (lOOP # 68 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:51:30 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:51:30 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:51:30 0    1619903764
+1    1620091863
+Name: before_value, dtype: int64
+2021-05-04, 09:51:43 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:51:58 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:51:58 [INFO] BEFORE VAL, AMA comment: 1619902144
+2021-05-04, 09:51:58 [INFO] BEFORE VAL, AskReddit comment: 1620091835
+2021-05-04, 09:51:58 [INFO] (lOOP # 69 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:51:58 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:51:58 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:51:58 0    1619902144
+1    1620091835
+Name: before_value, dtype: int64
+2021-05-04, 09:52:10 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:52:27 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:52:27 [INFO] BEFORE VAL, AMA comment: 1619900481
+2021-05-04, 09:52:27 [INFO] BEFORE VAL, AskReddit comment: 1620091802
+2021-05-04, 09:52:27 [INFO] (lOOP # 70 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:52:27 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:52:27 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:52:27 0    1619900481
+1    1620091802
+Name: before_value, dtype: int64
+2021-05-04, 09:52:38 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:52:53 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:52:53 [INFO] BEFORE VAL, AMA comment: 1619898282
+2021-05-04, 09:52:53 [INFO] BEFORE VAL, AskReddit comment: 1620091770
+2021-05-04, 09:52:53 [INFO] (lOOP # 71 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:52:53 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:52:53 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:52:53 0    1619898282
+1    1620091770
+Name: before_value, dtype: int64
+2021-05-04, 09:53:04 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:53:21 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:53:21 [INFO] BEFORE VAL, AMA comment: 1619896357
+2021-05-04, 09:53:21 [INFO] BEFORE VAL, AskReddit comment: 1620091739
+2021-05-04, 09:53:21 [INFO] (lOOP # 72 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:53:21 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:53:21 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:53:21 0    1619896357
+1    1620091739
+Name: before_value, dtype: int64
+2021-05-04, 09:53:31 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:53:46 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:53:46 [INFO] BEFORE VAL, AMA comment: 1619894831
+2021-05-04, 09:53:46 [INFO] BEFORE VAL, AskReddit comment: 1620091711
+2021-05-04, 09:53:46 [INFO] (lOOP # 73 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:53:46 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:53:46 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:53:46 0    1619894831
+1    1620091711
+Name: before_value, dtype: int64
+2021-05-04, 09:53:57 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:54:13 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:54:13 [INFO] BEFORE VAL, AMA comment: 1619893177
+2021-05-04, 09:54:13 [INFO] BEFORE VAL, AskReddit comment: 1620091675
+2021-05-04, 09:54:13 [INFO] (lOOP # 74 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:54:13 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:54:13 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:54:13 0    1619893177
+1    1620091675
+Name: before_value, dtype: int64
+2021-05-04, 09:54:24 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:54:39 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:54:39 [INFO] BEFORE VAL, AMA comment: 1619890997
+2021-05-04, 09:54:39 [INFO] BEFORE VAL, AskReddit comment: 1620091643
+2021-05-04, 09:54:39 [INFO] (lOOP # 75 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:54:39 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:54:39 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:54:39 0    1619890997
+1    1620091643
+Name: before_value, dtype: int64
+2021-05-04, 09:54:49 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:55:05 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:55:05 [INFO] BEFORE VAL, AMA comment: 1619888910
+2021-05-04, 09:55:05 [INFO] BEFORE VAL, AskReddit comment: 1620091610
+2021-05-04, 09:55:05 [INFO] (lOOP # 76 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:55:05 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:55:05 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:55:05 0    1619888910
+1    1620091610
+Name: before_value, dtype: int64
+2021-05-04, 09:55:16 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:55:33 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:55:33 [INFO] BEFORE VAL, AMA comment: 1619886752
+2021-05-04, 09:55:33 [INFO] BEFORE VAL, AskReddit comment: 1620091577
+2021-05-04, 09:55:33 [INFO] (lOOP # 77 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:55:33 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:55:33 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:55:33 0    1619886752
+1    1620091577
+Name: before_value, dtype: int64
+2021-05-04, 09:55:44 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:55:59 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:55:59 [INFO] BEFORE VAL, AMA comment: 1619884610
+2021-05-04, 09:55:59 [INFO] BEFORE VAL, AskReddit comment: 1620091549
+2021-05-04, 09:55:59 [INFO] (lOOP # 78 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:55:59 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:55:59 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:55:59 0    1619884610
+1    1620091549
+Name: before_value, dtype: int64
+2021-05-04, 09:56:14 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:56:29 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:56:29 [INFO] BEFORE VAL, AMA comment: 1619881576
+2021-05-04, 09:56:29 [INFO] BEFORE VAL, AskReddit comment: 1620091522
+2021-05-04, 09:56:29 [INFO] (lOOP # 79 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:56:29 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:56:29 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:56:29 0    1619881576
+1    1620091522
+Name: before_value, dtype: int64
+2021-05-04, 09:56:45 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:57:01 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:57:01 [INFO] BEFORE VAL, AMA comment: 1619878270
+2021-05-04, 09:57:01 [INFO] BEFORE VAL, AskReddit comment: 1620091489
+2021-05-04, 09:57:01 [INFO] (lOOP # 80 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:57:01 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:57:01 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:57:01 0    1619878270
+1    1620091489
+Name: before_value, dtype: int64
+2021-05-04, 09:57:11 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:57:27 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:57:27 [INFO] BEFORE VAL, AMA comment: 1619875490
+2021-05-04, 09:57:27 [INFO] BEFORE VAL, AskReddit comment: 1620091459
+2021-05-04, 09:57:27 [INFO] (lOOP # 81 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:57:27 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:57:27 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:57:27 0    1619875490
+1    1620091459
+Name: before_value, dtype: int64
+2021-05-04, 09:57:40 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:57:55 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:57:55 [INFO] BEFORE VAL, AMA comment: 1619871120
+2021-05-04, 09:57:55 [INFO] BEFORE VAL, AskReddit comment: 1620091426
+2021-05-04, 09:57:55 [INFO] (lOOP # 82 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:57:55 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:57:55 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:57:55 0    1619871120
+1    1620091426
+Name: before_value, dtype: int64
+2021-05-04, 09:58:06 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:58:24 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:58:24 [INFO] BEFORE VAL, AMA comment: 1619866156
+2021-05-04, 09:58:24 [INFO] BEFORE VAL, AskReddit comment: 1620091395
+2021-05-04, 09:58:24 [INFO] (lOOP # 83 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:58:24 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:58:24 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:58:24 0    1619866156
+1    1620091395
+Name: before_value, dtype: int64
+2021-05-04, 09:58:35 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:58:50 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:58:50 [INFO] BEFORE VAL, AMA comment: 1619858917
+2021-05-04, 09:58:50 [INFO] BEFORE VAL, AskReddit comment: 1620091365
+2021-05-04, 09:58:50 [INFO] (lOOP # 84 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:58:50 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:58:50 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:58:50 0    1619858917
+1    1620091365
+Name: before_value, dtype: int64
+2021-05-04, 09:59:01 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:59:17 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:59:17 [INFO] BEFORE VAL, AMA comment: 1619854409
+2021-05-04, 09:59:17 [INFO] BEFORE VAL, AskReddit comment: 1620091336
+2021-05-04, 09:59:17 [INFO] (lOOP # 85 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:59:17 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:59:17 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:59:17 0    1619854409
+1    1620091336
+Name: before_value, dtype: int64
+2021-05-04, 09:59:27 [INFO] AMA STATUS (comment): 200
+2021-05-04, 09:59:42 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 09:59:42 [INFO] BEFORE VAL, AMA comment: 1619850296
+2021-05-04, 09:59:42 [INFO] BEFORE VAL, AskReddit comment: 1620091304
+2021-05-04, 09:59:42 [INFO] (lOOP # 86 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 09:59:42 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 09:59:42 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 09:59:42 0    1619850296
+1    1620091304
+Name: before_value, dtype: int64
+2021-05-04, 09:59:53 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:00:11 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:00:11 [INFO] BEFORE VAL, AMA comment: 1619848420
+2021-05-04, 10:00:11 [INFO] BEFORE VAL, AskReddit comment: 1620091275
+2021-05-04, 10:00:11 [INFO] (lOOP # 87 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:00:11 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:00:11 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:00:11 0    1619848420
+1    1620091275
+Name: before_value, dtype: int64
+2021-05-04, 10:00:21 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:00:38 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:00:38 [INFO] BEFORE VAL, AMA comment: 1619845973
+2021-05-04, 10:00:38 [INFO] BEFORE VAL, AskReddit comment: 1620091249
+2021-05-04, 10:00:38 [INFO] (lOOP # 88 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:00:38 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:00:38 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:00:38 0    1619845973
+1    1620091249
+Name: before_value, dtype: int64
+2021-05-04, 10:00:48 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:01:11 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:01:11 [INFO] BEFORE VAL, AMA comment: 1619844575
+2021-05-04, 10:01:11 [INFO] BEFORE VAL, AskReddit comment: 1620091216
+2021-05-04, 10:01:11 [INFO] (lOOP # 89 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:01:11 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:01:11 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:01:11 0    1619844575
+1    1620091216
+Name: before_value, dtype: int64
+2021-05-04, 10:01:28 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:01:43 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:01:43 [INFO] BEFORE VAL, AMA comment: 1619843865
+2021-05-04, 10:01:43 [INFO] BEFORE VAL, AskReddit comment: 1620091189
+2021-05-04, 10:01:43 [INFO] (lOOP # 90 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:01:43 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:01:43 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:01:43 0    1619843865
+1    1620091189
+Name: before_value, dtype: int64
+2021-05-04, 10:01:54 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:02:09 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:02:09 [INFO] BEFORE VAL, AMA comment: 1619843226
+2021-05-04, 10:02:09 [INFO] BEFORE VAL, AskReddit comment: 1620091161
+2021-05-04, 10:02:09 [INFO] (lOOP # 91 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:02:09 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:02:09 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:02:09 0    1619843226
+1    1620091161
+Name: before_value, dtype: int64
+2021-05-04, 10:02:20 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:02:36 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:02:36 [INFO] BEFORE VAL, AMA comment: 1619841764
+2021-05-04, 10:02:36 [INFO] BEFORE VAL, AskReddit comment: 1620091131
+2021-05-04, 10:02:36 [INFO] (lOOP # 92 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:02:36 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:02:36 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:02:36 0    1619841764
+1    1620091131
+Name: before_value, dtype: int64
+2021-05-04, 10:02:48 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:03:03 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:03:03 [INFO] BEFORE VAL, AMA comment: 1619839896
+2021-05-04, 10:03:03 [INFO] BEFORE VAL, AskReddit comment: 1620091103
+2021-05-04, 10:03:03 [INFO] (lOOP # 93 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:03:03 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:03:03 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:03:03 0    1619839896
+1    1620091103
+Name: before_value, dtype: int64
+2021-05-04, 10:03:14 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:03:29 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:03:29 [INFO] BEFORE VAL, AMA comment: 1619837079
+2021-05-04, 10:03:29 [INFO] BEFORE VAL, AskReddit comment: 1620091075
+2021-05-04, 10:03:29 [INFO] (lOOP # 94 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:03:29 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:03:29 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:03:29 0    1619837079
+1    1620091075
+Name: before_value, dtype: int64
+2021-05-04, 10:03:42 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:03:57 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:03:57 [INFO] BEFORE VAL, AMA comment: 1619833902
+2021-05-04, 10:03:57 [INFO] BEFORE VAL, AskReddit comment: 1620091046
+2021-05-04, 10:03:57 [INFO] (lOOP # 95 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:03:57 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:03:57 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:03:57 0    1619833902
+1    1620091046
+Name: before_value, dtype: int64
+2021-05-04, 10:04:08 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:04:24 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:04:24 [INFO] BEFORE VAL, AMA comment: 1619830657
+2021-05-04, 10:04:24 [INFO] BEFORE VAL, AskReddit comment: 1620091017
+2021-05-04, 10:04:24 [INFO] (lOOP # 96 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:04:24 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:04:24 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:04:24 0    1619830657
+1    1620091017
+Name: before_value, dtype: int64
+2021-05-04, 10:04:36 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:04:51 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:04:51 [INFO] BEFORE VAL, AMA comment: 1619828497
+2021-05-04, 10:04:51 [INFO] BEFORE VAL, AskReddit comment: 1620090991
+2021-05-04, 10:04:51 [INFO] (lOOP # 97 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:04:51 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:04:51 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:04:51 0    1619828497
+1    1620090991
+Name: before_value, dtype: int64
+2021-05-04, 10:05:14 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:05:48 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:05:48 [INFO] BEFORE VAL, AMA comment: 1619826796
+2021-05-04, 10:05:48 [INFO] BEFORE VAL, AskReddit comment: 1620090965
+2021-05-04, 10:05:48 [INFO] (lOOP # 98 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:05:48 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:05:48 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:05:48 0    1619826796
+1    1620090965
+Name: before_value, dtype: int64
+2021-05-04, 10:05:59 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:06:15 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:06:15 [INFO] BEFORE VAL, AMA comment: 1619824630
+2021-05-04, 10:06:15 [INFO] BEFORE VAL, AskReddit comment: 1620090938
+2021-05-04, 10:06:15 [INFO] (lOOP # 99 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:06:15 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:06:15 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:06:15 0    1619824630
+1    1620090938
+Name: before_value, dtype: int64
+2021-05-04, 10:06:26 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:06:42 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:06:42 [INFO] BEFORE VAL, AMA comment: 1619821725
+2021-05-04, 10:06:42 [INFO] BEFORE VAL, AskReddit comment: 1620090908
+2021-05-04, 10:06:42 [INFO] (lOOP # 100 of 100)
+
+--------------------------------------------------------------------
+2021-05-04, 10:06:42 [INFO]   Begin Iteration of call_scraper
+--------------------------------------------------------------------
+2021-05-04, 10:06:42 [INFO] READ IN "BEFORE" VALS: 
+2021-05-04, 10:06:42 0    1619821725
+1    1620090908
+Name: before_value, dtype: int64
+2021-05-04, 10:06:53 [INFO] AMA STATUS (comment): 200
+2021-05-04, 10:07:08 [INFO] AskReddit STATUS (comment): 200
+2021-05-04, 10:07:08 [INFO] BEFORE VAL, AMA comment: 1619820684
+2021-05-04, 10:07:08 [INFO] BEFORE VAL, AskReddit comment: 1620090877
+2021-05-04, 10:07:08 [INFO]  *** Writing to CSV file(s) ***
+2021-05-04, 10:07:09 [INFO]   - Writing to file: {fn}
+2021-05-04, 10:07:09 [INFO]   - Writing to file: {fn}
+
+--------------------------------------------------------------------------------------------------
+2021-05-04, 10:07:09 [INFO]   FINISH LOOP SCRAPER
+==================================================================================================
+
+
